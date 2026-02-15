@@ -2,8 +2,6 @@
 15.Write a function that will find the longest prefix substring of a string that is also a suffix substring of the same string
 */
 
-// This code is partially completed using Artifical Intelligence, and the rest is completed by me. I have added comments to explain the code.
-
 #include <stdio.h>
 
 void find_longest_prefix_suffix(char str[])
@@ -67,4 +65,5 @@ int main()
     find_longest_prefix_suffix(sentence);
 
     return 0;
+
 }
