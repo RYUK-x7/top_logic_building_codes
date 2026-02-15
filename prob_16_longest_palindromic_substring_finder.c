@@ -2,8 +2,6 @@
 16. Write a function to find the longest palindromic substring
 */
 
-// This code is partially completed using Artifical Intelligence, and the rest is completed by me. I have added comments to explain the code.
-
 #include <stdio.h>
 
 // Helper function to expand around center and return length of palindrome
@@ -95,4 +93,5 @@ int main()
     find_longest_palindrome(sentence);
 
     return 0;
+
 }
