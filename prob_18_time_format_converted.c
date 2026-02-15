@@ -3,8 +3,6 @@
 Sample: Convert "14:35" → "02:35 PM" and vice versa
 */
 
-// This code is partially completed using Artifical Intelligence, and the rest is completed by me. I have added comments to explain the code.
-
 #include <stdio.h>
 
 // Convert 24-hour format to 12-hour format
@@ -127,4 +125,5 @@ int main()
     }
 
     return 0;
+
 }
